@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": "9b08",
+      "name": "Mian Ammar",
+      "email": "mianammarsalar@gmail.com",
+      "password": "$2b$10$tm9L0plNjiwqaQ9.L2m85u727uycTJw7ovtYOk72qiitihDY7xskC"
+    },
+    {
+      "id": "e7cd",
+      "name": "Amir",
+      "email": "amir@gmail.com",
+      "password": "$2b$10$JznQVjJCS3CYCP2xvEtry.BpIra7aS48sVu2MxRpDGCAjuBVa9zje"
+    },
+    {
+      "id": "f2d9",
+      "name": "Sana",
+      "email": "sana@gmail.com",
+      "password": "$2b$10$Q7Lm3r3wSuUBhrC4/RkQ8eAiOO3vlTs2tEF3tcDEDaIWPFnQu4ila"
+    },
+    {
+      "id": "0dfc",
+      "name": "Salar",
+      "email": "salar@gmail.com",
+      "password": "$2b$10$8N/Idq3tn/TVd.bqX8WIreEmUdr.yyx7bq2vG6d..KGmDKeQmBm3q"
+    },
+    {
+      "id": "e927",
+      "name": "Rehana",
+      "email": "rehana@gmail.com",
+      "password": "$2b$10$w6kFobqmT8ED5VCseJYel.A4ILkHBTE5PgrFnNGY1l7cBmXKb7.8u"
+    },
+    {
+      "id": "d4da",
+      "name": "Ayesha",
+      "email": "ayesha@gmail.com",
+      "password": "$2b$10$gp8vfnLm/13bC4W7NYUIvORlrKBGDtffpn9OF7RmJI3CfCJML7NgO"
+    },
+    {
+      "id": "9a0d",
+      "name": "Awais",
+      "email": "awais@gmail.com",
+      "password": "$2b$10$hS5ACRNBmULXbQrhxkbslOCiELgpVgtLhoRR30fy15doUKF8OR3jK"
+    },
+    {
+      "id": "58e7",
+      "name": "Anees",
+      "email": "anees@gmail.com",
+      "password": "$2b$10$E3JgX9ybslfD9yQq2JqdS.t68tKIzKar.bS4MrcJ.chUJTVMeKI2W"
+    },
+    {
+      "id": "3051",
+      "name": "nawaz",
+      "email": "nawaz@gmail.com",
+      "password": "$2b$10$rwNuBgNk1W/TSzrTkXE2.eeT1k4oKmKgiLmC/7hjO6iNUMAWWxvae"
+    },
+    {
+      "id": "f9b8",
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "password": "$2b$10$zMWyTTbTjAtnYUJnBLfZZeb3dPk/rcPeEQo5YWK2IluQ7NgsaaKTe"
+    },
+    {
+      "id": "b240",
+      "name": "Ahman",
+      "email": "ahmad@gmail.com",
+      "password": "$2b$10$XoDzSBUjUf.ld2s/ZjwYNeKx1Tr.XA5W618LUcruoMW3Tzd/ZC4we"
+    },
+    {
+      "id": "395e",
+      "name": "Mian",
+      "email": "mian@gmail.com",
+      "password": "$2b$10$3uwvWI3GnEb9v9Isw0D9cOWgWWaoOEU7qYOCBYxXGqozvOJ8lqWCO"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "9a0d",
+      "name": "green bowl",
+      "rating": 4.5,
+      "category": "vegan",
+      "description": "plant based meals focused on fresh vegetables, grains, and healthy sauces.",
+      "user_id": "0dfc"
+    },
+    {
+      "id": "2d30",
+      "name": "spice route",
+      "rating": 4.2,
+      "category": "indian",
+      "description": "traditional indian dishes with rich spices, curries, and freshly baked naan.",
+      "user_id": "9b08"
+    },
+    {
+      "id": "b689",
+      "name": "urban grill",
+      "rating": 4,
+      "category": "continental",
+      "description": "grilled meats, burgers, and light meals served in a casual setting.",
+      "user_id": "9a0d"
+    },
+    {
+      "id": "07b1",
+      "name": "pasta corner",
+      "rating": 4.3,
+      "category": "italian",
+      "description": "handmade pasta with classic italian sauces and seasonal ingredients.",
+      "user_id": "0dfc"
+    },
+    {
+      "id": "27d0",
+      "name": "tandoor house",
+      "rating": 4.6,
+      "category": "indian",
+      "description": "tandoor cooked meats, kebabs, and authentic north indian flavors.",
+      "user_id": "e7cd"
+    },
+    {
+      "id": "66ff",
+      "name": "ocean bite",
+      "rating": 4.1,
+      "category": "seafood",
+      "description": "fresh fish and seafood prepared with simple herbs and marinades.",
+      "user_id": "e7cd"
+    },
+    {
+      "name": "pasta corners",
+      "rating": 4.8,
+      "category": "italian",
+      "description": "handmade pasta with classic italian sauces and seasonal ingredients. more details",
+      "user_id": "9b08",
+      "id": "2104"
+    },
+    {
+      "name": "pasta corner",
+      "rating": 4.8,
+      "category": "italian",
+      "description": "handmade pasta with classic italian sauces and seasonal ingredients.",
+      "id": "517e"
+    }
+  ]
+}
