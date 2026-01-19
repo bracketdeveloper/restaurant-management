@@ -105,7 +105,7 @@ restaurant-management-app/
    
    Follow this tutorial to integrate Bootstrap:
    ```
-   https://www.youtube.com/watch?v=oZ9zlS5V5WU&t=207s
+   https://www.youtube.com/watch?v=oZ9zlS5V5WU
    ```
 
 ### Setting up JSON Server
